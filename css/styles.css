@@ -1,27 +1,25 @@
 * {
     background-color: #FFFCEF;
+    font-family: 'Courier New', Courier, monospace;
 }
 h1 {
     color:green;
     font-size: 24px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 
 div {
      text-align: center;
- }
+}
 
 ul {
      text-align: center;
      list-style-position: inside;
      font-family: 'Courier New', Courier, monospace;
-     color: green;
 }
-
- a {
+a {
      color: green;
-     font-size: 20px;
+     font-size: 16px;
      font-weight: bold;
-    }
+}
