@@ -13,13 +13,7 @@ div {
      text-align: center;
 }
 
-
-.head-foot {
-     text-align: center;
-}
-
 ul {
-     list-style-type: none;
      text-align: center;
      list-style-position: inside;
      font-family: 'Courier New', Courier, monospace;
@@ -30,3 +24,13 @@ a {
      font-size: 16px;
      font-weight: bold;
 }
+
+.head-foot {
+     text-align: center;
+}
+
+#all-lists {
+     list-style-type: none;
+}
+
+/* Idk if these 2 work^ */
