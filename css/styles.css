@@ -29,8 +29,6 @@ a {
      text-align: center;
 }
 
-#all-lists {
+.all-lists {
      list-style-type: none;
 }
-
-/* Idk if these 2 work^ */
