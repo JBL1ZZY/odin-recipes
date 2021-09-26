@@ -2,27 +2,26 @@
     background-color: #FFFCEF;
     font-family: 'Courier New', Courier, monospace;
 }
-
 h1 {
     color:green;
     font-size: 24px;
     text-align: center;
 }
-
-div {
-     text-align: center;
-}
-
 a {
      color: green;
      font-size: 16px;
      font-weight: bold;
 }
-
 .head-foot {
      text-align: center;
 }
-
 .all-lists {
      list-style-type: none;
 }
+.recipe-img {
+     text-align: center;
+}
+div {
+     text-align: center;
+}
+/* div (above) aligns homepage elements */
