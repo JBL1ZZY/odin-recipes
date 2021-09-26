@@ -1,1 +1,1 @@
-This is my first attempt at one of the odin project's... projects! I'm baked so these recipes better not be bussin'. If you're looking at this years from now... call your mom. BL1ZZY
+This is my first attempt at one of the odin project's... projects! Recipes bruh.
